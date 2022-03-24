@@ -21,7 +21,7 @@ Each student will prepare an oral presentation from a selection of papers listed
 
 Li, J., R. Sainson, W. Shi, R. Leek, L. Harrington, M. Preusser, S. Biswas, H. Turley, E. Heikamp, J. Hainfellner, and A. Harris. "[Delta-like 4 Notch Ligand Regulates Tumor Angiogenesis, Improves Tumor Vascular Function, and Promotes Tumor Growth _In vivo_](http://cancerres.aacrjournals.org/content/67/23/11244.full)." _Cancer Res_ 67, no. 23 (2007): 11244-53.
 
-Nakahara, T., S. Norberg, D. Shalinsky, D. Hu-Lowe, and D. M. McDonald. "Effect of Inhibition of Vascular Endothelial Growth Factor Signaling on Distribution of Extravasated Antibodies in Tumors." _Cancer Res_ 66, no. 3 (2006): 1434-45. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 13.2MB](http://cancerres.aacrjournals.org/content/66/3/1434.full.pdf))
+Nakahara, T., S. Norberg, D. Shalinsky, D. Hu-Lowe, and D. M. McDonald. "Effect of Inhibition of Vascular Endothelial Growth Factor Signaling on Distribution of Extravasated Antibodies in Tumors." _Cancer Res_ 66, no. 3 (2006): 1434-45. ([PDF - 13.2MB](http://cancerres.aacrjournals.org/content/66/3/1434.full.pdf))
 
 Ebos, J., C. Lee, W. Cruz-Munoz, G. Bjarnason, J. Christensen, and R. Kerbel. "[Accelerated Metastasis after Short-Term Treatment with a Potent Inhibitor of Tumor Angiogenesis](http://www.ncbi.nlm.nih.gov/pubmed/19249681)." _Cancer Cell_ 15, 232–9.
 
